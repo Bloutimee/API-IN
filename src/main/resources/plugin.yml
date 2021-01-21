@@ -1,0 +1,6 @@
+main: com.iodefaction.api.bukkit.API
+name: API
+author: Bloutime et Comore
+version: 1.0
+depend:
+  - HolographicDisplays

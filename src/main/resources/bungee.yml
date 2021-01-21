@@ -1,0 +1,4 @@
+main: com.iodefaction.api.bungee.API
+name: API
+author: Comore
+version: 1.0
